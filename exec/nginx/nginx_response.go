@@ -19,9 +19,9 @@ package nginx
 import (
 	"context"
 	"fmt"
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/category"
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/nginx/parser"
 	"github.com/chaosblade-io/chaosblade-spec-go/log"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/category"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/nginx/parser"
 	"strconv"
 	"strings"
 

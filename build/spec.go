@@ -20,9 +20,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/nginx"
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/redis"
-	"github.com/chaosblade-io/chaosblade-exec-os/exec/model"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/nginx"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/redis"
+	"github.com/deepsola/chaosblade-exec-os/exec/model"
 
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/chaosblade-io/chaosblade-spec-go/util"

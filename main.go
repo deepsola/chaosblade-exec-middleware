@@ -22,11 +22,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/model"
 	"github.com/chaosblade-io/chaosblade-spec-go/channel"
 	"github.com/chaosblade-io/chaosblade-spec-go/log"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/model"
 )
 
 var executors = model.GetAllMiddlewareExecutors()

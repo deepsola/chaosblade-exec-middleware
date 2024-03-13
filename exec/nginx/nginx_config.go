@@ -19,11 +19,11 @@ package nginx
 import (
 	"context"
 	"fmt"
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/category"
-	"github.com/chaosblade-io/chaosblade-exec-middleware/exec/nginx/parser"
 	"github.com/chaosblade-io/chaosblade-spec-go/log"
 	"github.com/chaosblade-io/chaosblade-spec-go/spec"
 	"github.com/chaosblade-io/chaosblade-spec-go/util"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/category"
+	"github.com/deepsola/chaosblade-exec-middleware/exec/nginx/parser"
 	"path/filepath"
 )
 
